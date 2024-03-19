@@ -1,0 +1,21 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: "import java.util.Scanner;\n\npublic class Main {\n\n    public static void\
+    \ main(String[] args) {\n\n        // Create a Scanner object for obtaining user\
+    \ input.\n        Scanner scanner = new Scanner(System.in);\n\n        // Use\
+    \ the Scanner object to read a float from the user.\n        // You need to assign\
+    \ the user's input to a variable here.\n        float userInput; \n\n        //\
+    \ Multiply the user's input by 10 and assign the result to a variable.\n     \
+    \   // Your code goes here. \n\n        // Print out the result.\n        // Your\
+    \ code goes here.\n\n        // Close the Scanner object.\n        scanner.close();\n\
+    \    }\n}"
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/43089#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sat, 16 Mar 2024 07:08:58 UTC"
+record: -1
+submission_language: java17

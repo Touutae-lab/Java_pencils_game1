@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/Last Pencil (Java)/task/build/
+/Last Pencil (Java)/task/out/
+/Last Pencil (Java)/task/out/production/classes/
+/Topics/Errors in programs/Fix compile-time errors/out/
+/Topics/Errors in programs/Fix compile-time errors/out/production/classes/
+/Topics/Errors in programs/Multiplying a user-input float by 10/out/
+/Topics/Errors in programs/Multiplying a user-input float by 10/out/production/classes/
